@@ -1,8 +1,8 @@
-# Pyber Analysis
+# PyBer Analysis
 
 ## Overview
 
-Following the original analysis of the Pyber data, **ADD TEXT**. The purpose of this analysis is to **ADD TEXT**.
+Following the original analysis of the PyBer data, **ADD TEXT**. The purpose of this analysis is to **ADD TEXT**.
 
 *[Original Analysis](https://github.com/rabascoh/rideshare-analysis/blob/main/Module_Materials/Pyber.ipynb)*
 
@@ -16,7 +16,7 @@ Following the original analysis of the Pyber data, **ADD TEXT**. The purpose of 
 
 #### Ride-Sharing Data Summary
 
-![Summary_Table](https://github.com/rabascoh/rideshare-analysis/blob/main/analysis/PyBer_fare_summary.png)
+![Summary_Table](https://github.com/rabascoh/rideshare-analysis/blob/main/analysis/PyBer_fare_summary_table.png)
 
 #### Ride-Sharing Data by City Type
 
